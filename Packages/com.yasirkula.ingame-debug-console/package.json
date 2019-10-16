@@ -1,0 +1,8 @@
+{
+  "dependencies": {},
+  "description": "A uGUI based console to see debug messages and execute commands during gameplay in Unity.",
+  "displayName": "Ingame Debug Console",
+  "license": "MIT",
+  "name": "com.yasirkula.ingame-debug-console",
+  "version": "0.0.1"
+}
