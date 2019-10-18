@@ -1,3 +1,7 @@
+This repository has UPM support. Use https://github.com/mob-sakai/UpmGitExtension for installing it directly in Unity.
+
+---
+
 # In-game Debug Console for Unity 3D
 
 <img height="278" src="Images/1.png" alt="screenshot" /> <img height="278" src="Images/2.png" alt="screenshot2" />
